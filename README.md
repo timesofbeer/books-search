@@ -8,4 +8,4 @@ npm i
 node app.js
 ```
 
-# try acessing application on localhost:4343 
+# try accessing application on localhost:4343 
